@@ -192,6 +192,7 @@ border-radius: 50%;
   display: inline-block;
   z-index: 1;
   float: 50px;
+  margin-left: 1535px;
 }
 
 .dropdown-content {
