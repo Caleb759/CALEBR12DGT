@@ -191,7 +191,7 @@ border-radius: 50%;
   position: absolute;
   display: inline-block;
   z-index: 1;
-  padding-left: 1535px;
+  float: 50px;
 }
 
 .dropdown-content {
